@@ -6,7 +6,7 @@ I'm Zagham Arif, a passionate and experienced Full Stack JavaScript Developer cu
 
 ## Overview
 
-With over three years of professional experience, I specialize in building high-quality, scalable applications using a diverse set of technologies. My expertise lies in backend development with Node JS (Express JS), Python (Django), as well as frontend development with React JS and Next JS. I thrive in collaborative environments and enjoy tackling complex problems with innovative solutions.
+With over four years of professional experience, I specialize in building high-quality, scalable applications using a diverse set of technologies. My expertise lies in backend development with Node JS (Express JS, Supabase, Keystone JS, Strapi JS), Python (Django, Flask, FAST API), as well as frontend development with React JS and Next JS. I thrive in collaborative environments and enjoy tackling complex problems with innovative solutions.
 
 ## Skills
 
