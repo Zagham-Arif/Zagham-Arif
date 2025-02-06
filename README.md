@@ -2,6 +2,8 @@
 
 I'm Zagham Arif, a passionate and experienced Full Stack JavaScript Developer currently working as a Senior Software Engineer at Hashlogics.
 
+[![Zagham's wakatime stats](https://wakatime.com/badge/user/100a5bcb-5d54-4c30-8c40-91745016eff8.svg)](https://wakatime.com/@100a5bcb-5d54-4c30-8c40-91745016eff8)
+
 ## Overview
 
 With over three years of professional experience, I specialize in building high-quality, scalable applications using a diverse set of technologies. My expertise lies in backend development with Node JS (Express JS), Python (Django), as well as frontend development with React JS and Next JS. I thrive in collaborative environments and enjoy tackling complex problems with innovative solutions.
@@ -79,6 +81,7 @@ I'm a dedicated backend developer with extensive expertise in Node.js, Python, a
 - **Project Management & Collaboration:** Familiar with project management tools such as Jira, Trello, Click Up, and Notion, which aid in efficient task management and collaboration within teams.
 
 I am passionate about solving complex problems and continually seek opportunities to learn and grow in dynamic, team-oriented environments. My goal is to contribute to innovative projects that make a tangible impact.
+
 
 ## Contact
 
