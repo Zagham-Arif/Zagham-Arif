@@ -252,7 +252,7 @@ From the first client call to a shipped product. Next.js front ends, estimates, 
 | --- | --- | --- | --- |
 | **Freelance Full-Stack Developer** | Self-employed, Remote | Aug 2025 to present | Building a recurring donations and payments platform for a direct client, end to end. |
 | **Senior Software Engineer** | Xavor Corporation, Lahore | May 2025 to Jul 2025 | Designed the backend of a retail price auditing product from scratch, for a US retailer, on AWS. |
-| **Senior Software Developer** | Hashlogics, Lahore | Aug 2022 to Feb 2025 | Led delivery teams across four products, from AI product matching to serverless compliance platforms. Employee of the Month. |
+| **Senior Software Engineer** | Hashlogics, Lahore | Aug 2022 to Feb 2025 | Led delivery teams across four products, from AI product matching to serverless compliance platforms. Employee of the Month. |
 | **Software Engineer** | Memberhood Inc., Germany (Remote) | Mar 2022 to Mar 2023 | Backend and storefront of a multi-merchant membership commerce platform with Stripe. |
 | **Software Engineer** | SKUPREME, USA (Remote) | Jun 2022 to Aug 2022 | Front-end work on the web dashboard of a supply chain and inventory product. |
 | **Software Engineer** | Homeats, Turkey (Remote) | Mar 2022 to Jun 2022 | Full-stack work on the dashboard and APIs of an online healthy food marketplace. |
